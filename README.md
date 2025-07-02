@@ -18,7 +18,7 @@ pip install seisvis
 ##  Quick Start
 
 We provide a test dataset so you can immediately try the visualization tools without needing your own seismic data.  
-You can refer to the `vis_demo.ipynb` file for usage examples.
+You can refer to the [`vis_demo.ipynb`](./vis_demo.ipynb) file for usage examples.
 
 ####  Download Test Data
 
