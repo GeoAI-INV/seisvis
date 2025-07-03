@@ -60,7 +60,7 @@ This is just a demonstration; for more details, please refer to [`vis_demo.ipynb
 
 ```bash
 from seisvis.datacube import DataCube
-from seisvis import plot2d， plot3d
+from seisvis import plot2d, plot3d
 
 # Initialize DataCube
 data_cube = DataCube()
